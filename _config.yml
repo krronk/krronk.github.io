@@ -20,7 +20,7 @@ title                    : "Krishna Tibrewal"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Krishna Tibrewal"
-description              : "show me something"
+description              : #""
 url                      : "https://krronk.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : #"mmistakes/minimal-mistakes"
@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "Krishna Tibrewal"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : " This PC/Downloads/photo_2.jpg"
   bio              : "Working on Generative Models"
   location         : #"Somewhere"
   email            :
