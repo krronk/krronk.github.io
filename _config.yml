@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "Krishna Tibrewal"
-  avatar           : "/C:/photo_2.jpg"
+  avatar           : "/assets/images/photo_2.jpg"
   bio              : "Working on Generative Models"
   location         : #"Somewhere"
   email            : "ktibrewal8@gmail.com"
