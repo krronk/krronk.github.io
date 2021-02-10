@@ -12,7 +12,7 @@
 
 # theme                  : ""
 remote_theme             : "mmistakes/minimal-mistakes@4.22.0"
-minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -103,9 +103,9 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       #url:  "ktibrewal8@gmail.com"
-    - label: "Website"
+    - label: "Medium"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      # url: "https://medium.com/ktibrewal90"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -116,7 +116,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/krronk"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
+      icon: "fab fa-linkedin-in"
       # url: "https://linkedin.com/ktibrewal"
 
 # Site Footer
