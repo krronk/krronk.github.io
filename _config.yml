@@ -105,7 +105,7 @@ author:
       #url:  "ktibrewal8@gmail.com"
     - label: "Medium"
       icon: "fas fa-fw fa-link"
-      # url: "https://medium.com/ktibrewal90"
+      url: "https://medium.com/ktibrewal90"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -117,7 +117,7 @@ author:
       url: "https://github.com/krronk"
     - label: "LinkedIn"
       icon: "fab fa-linkedin-in"
-      # url: "https://linkedin.com/ktibrewal"
+      url: "https://linkedin.com/ktibrewal"
 
 # Site Footer
 footer:
